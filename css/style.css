@@ -173,12 +173,20 @@ header {
     font-size: 18px;
     padding: 2px 10px;
 }
+.wrapper6{
+    width: 98%;
+    min-height: 50px;
+    background-color: #fff;
+    overflow: hidden;
+    margin: 0 auto;
+}
 .wrapper5{
     height: 50px;
     width: 20%;    
     margin: 0 auto;
    
 }
+
 
 .pic{
     height:50px;
